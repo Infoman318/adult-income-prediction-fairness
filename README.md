@@ -139,14 +139,13 @@ The notebook investigates:
 
 The project compares multiple supervised learning models using Accuracy,
 F1-score and ROC-AUC.
-
-  Model                     Accuracy    F1 Score     ROC-AUC
-  --------------------- ------------ ----------- -----------
-  XGBoost                 **86.44%**   **0.705**   **0.924**
-  Gradient Boosting           85.98%       0.682       0.916
-  SVM                         84.98%       0.664       0.898
-  Random Forest               84.88%       0.673       0.901
-  Logistic Regression         84.75%       0.664       0.902
+| Model | Accuracy | F1 Score | ROC-AUC |
+|-------|----------|----------|---------|
+| **XGBoost** | **86.44%** | **0.705** | **0.924** |
+| Gradient Boosting | 85.98% | 0.682 | 0.916 |
+| SVM | 84.98% | 0.664 | 0.898 |
+| Random Forest | 84.88% | 0.673 | 0.901 |
+| Logistic Regression | 84.75% | 0.664 | 0.902 |
 
 **Best Performing Model:** XGBoost
 
