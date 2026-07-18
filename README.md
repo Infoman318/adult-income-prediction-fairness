@@ -166,7 +166,7 @@ Representative outputs generated during the analysis:
 
 ### Model Comparison
 
-![Model Comparison](images/model_comparison.png)
+![Model Comparison](images/baseline_model_performance_comparison.png)
 
 ### ROC Curve
 
