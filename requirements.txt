@@ -1,0 +1,12 @@
+Python package requirements for Adult Income Prediction project
+
+Install using:
+
+pip install -r requirements.txt
+
+numpy==2.0.2 
+pandas==2.2.2 
+matplotlib==3.10.0 
+seaborn==0.13.2
+scikit-learn==1.6.1 
+xgboost==3.3.0
